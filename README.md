@@ -1,1 +1,6 @@
-# r2.03-tp_2
+# Dépot TP 2 : Qualité de développement 
+
+# étudiants :
+- Selyan Mohammedi
+- Valentine Thenawha
+- Mahana Benard
